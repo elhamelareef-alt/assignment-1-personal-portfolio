@@ -1,0 +1,65 @@
+body
+{
+    background-color: aliceblue;
+    
+}
+
+.introdiction h1
+{
+    color: white;
+    
+}
+.introdiction h3
+{
+    color: aqua;
+}
+button
+{
+    border-radius: 20%;
+}
+.w-80
+{
+    width: 80%;
+}
+.introdiction
+{
+    background-color: rgb(32, 32, 96);
+    text-align: center;
+   
+}
+
+.float-left
+{
+    float: right;
+}
+.m-auto
+{
+    margin: auto;
+}
+
+ img
+{
+    width: 10%;
+    border-radius: 50%;
+}
+.about
+{
+background-color: white;
+}
+.clear-float
+{
+  clear: both;  
+}
+.m-m
+{
+    margin: 50px;
+}
+.border
+{
+    border: 5px rgb(42, 64, 64) solid;
+}
+.border-link
+{
+    border: 2px solid black;
+}
+
